@@ -1,24 +1,24 @@
 {
 	"psionic": [
 		{
-			"name": "Adaptive Body",
+			"name": "自适应躯体",
 			"source": "UATheMysticClass",
 			"page": 10,
 			"type": "D",
 			"order": "Immortal",
 			"entries": [
-				"You can alter your body to match your surroundings, allowing you to withstand punishing environments. With greater psi energy, you can extend this protection to others."
+				"你可以改变你的身体以适应你的环境，让你能够承受苛刻的环境。有了更大的超能力能量，你可以将这种保护扩展到他人。"
 			],
-			"focus": "While focused on this discipline, you don't need to eat, breathe, or sleep. To gain the benefits of a long rest, you can spend 8 hours engaged in light activity, rather than sleeping during any of it.",
+			"focus": "当你专注于这个领域时，你不需要吃、呼吸或睡觉。为了获得长时间休息的好处，你可以花8个小时进行轻活动，而不是在任何时候都睡觉。",
 			"modes": [
 				{
 					"cost": {
 						"min": 2,
 						"max": 2
 					},
-					"name": "Environmental Adaptation",
+					"name": "环境适应",
 					"entries": [
-						"As an action, you or a creature you touch ignores the effects of extreme heat or cold (but not cold or fire damage) for the next hour"
+						"作为一个行动，你或你接触的生物可以忽视极度热或冷的效果（但不能忽视寒冷或火焰伤害）在接下来的一小时里。"
 					]
 				},
 				{
@@ -26,9 +26,9 @@
 						"min": 3,
 						"max": 3
 					},
-					"name": "Adaptive Shield",
+					"name": "适应护盾",
 					"entries": [
-						"When you take acid, cold, fire, lightning, or thunder damage, you can use your reaction to gain resistance to damage of that type\u2014including the triggering damage\u2014until the end of your next turn."
+						"当你承受酸、寒冷、火焰、闪电或雷霆伤害时，你可以用你的反应来获得对那种类型的伤害的抗性\u2014包括触发伤害\u2014直到你下一轮的结束。"
 					]
 				},
 				{
@@ -38,11 +38,11 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
-					"name": "Energy Adaptation",
+					"name": "能量适应",
 					"entries": [
-						"As an action, you can touch one creature and give it resistance to acid, cold, fire, lightning, or thunder damage (your choice), which lasts until your concentration ends."
+						"作为一个行动，你可以触摸一个生物，并赋予它对酸、寒冷、火焰、闪电或雷霆伤害（你选择）的抗性，这种抗性持续到你的专注结束。"
 					]
 				},
 				{
@@ -52,11 +52,11 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
-					"name": "Energy Immunity",
+					"name": "能量免疫",
 					"entries": [
-						"As an action, you can touch one creature and give it immunity to acid, cold, fire, lightning, or thunder damage (your choice), which lasts until your concentration ends."
+						"作为一个行动，你可以触摸一个生物，并赋予它对酸、寒冷、火焰、闪电或雷霆伤害（你选择）的免疫，这种免疫持续到你的专注结束。"
 					]
 				}
 			]
@@ -99,7 +99,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "View Aura",
 					"entries": [
@@ -824,7 +824,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Iron Resistance",
 					"entries": [
@@ -1048,7 +1048,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Unsettling Aura",
 					"entries": [
@@ -1277,7 +1277,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Animate Air",
 					"entries": [
@@ -1356,7 +1356,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Animate Fire",
 					"entries": [
@@ -1710,7 +1710,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Animate Water",
 					"entries": [
@@ -1863,7 +1863,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Wall of Wood",
 					"entries": [
@@ -1891,7 +1891,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Animate Earth",
 					"entries": [
@@ -2080,7 +2080,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Find Creature",
 					"entries": [
@@ -2094,7 +2094,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Item Lore",
 					"entries": [
@@ -2118,7 +2118,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Wandering Eye",
 					"entries": [
@@ -2132,7 +2132,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Phasing Eye",
 					"entries": [
@@ -2229,7 +2229,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Nomad's Gate",
 					"entries": [
@@ -2280,7 +2280,7 @@
 					},
 					"concentration": {
 						"duration": 8,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Danger Sense",
 					"entries": [
@@ -2557,7 +2557,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Ransack Mind",
 					"entries": [
@@ -2571,7 +2571,7 @@
 					},
 					"concentration": {
 						"duration": 1,
-						"unit": "hr"
+						"unit": "小时"
 					},
 					"name": "Phantom Idea",
 					"entries": [

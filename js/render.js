@@ -6072,7 +6072,7 @@ Renderer.psionic = {
 				}
 
 				function getModeTitleConcentration () {
-					return `conc., ${mode.concentration.duration} ${mode.concentration.unit}.`
+					return `专注, ${mode.concentration.duration} ${mode.concentration.unit}.`
 				}
 			}
 		}
